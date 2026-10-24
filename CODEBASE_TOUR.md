@@ -7,7 +7,7 @@ questions and their answers.
 ---
 
 ## 1. The Big Picture
-
+   
 ```
 project x/
 ├── frontend/     React 19 + TypeScript SPA (Vite dev server, port 5173)
